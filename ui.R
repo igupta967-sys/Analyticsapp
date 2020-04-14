@@ -42,7 +42,7 @@ sidebar <- dashboardSidebar(width = 230,
                               hr(),
                               
                               helpText("Developed by ", 
-                                       a("Ishaan Gupta", href = "https://github.com/okuym"),
+                                       a("Ishaan Gupta", href = "https://github.com/igupta967-sys/Analyticsapp"),
                                        align = "center")
                             )
 )
